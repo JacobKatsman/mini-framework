@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+
+         const address = 'http://127.0.0.1:8080';    
+      
+          $(document).ready(function(){      
+             $.ajax({
+             url: address + '/getlist',
+             type: "GET",
+             dataType: "json",
+             async:true,
+             crossDomain:true,
+                 success: function (data) {
+                     var data = Object.entries(data);
+                     var html = '<select id="choice" name="choice">'; 
+                     for (i in data) {
+                          html += "<option value='"+data[i][0]+"'>"+data[i][1]+"</option>";
+                     }
+                     html += '</select>';
+                     $('#listuser').append(html);
+                     $( "#choice" ).on( "change", function() {
+                         var userId = $('#choice :selected').val();
+                          showMessage(userId);
+                     } );
+             }
+             });
+
+              function showMessage(userId) {
+                 var str = {'id': userId};
+                 $.ajax({
+                 url: address + '/getbalance',
+                 type: "POST",
+                 data: JSON.stringify(str),
+                 dataType: "json",
+                 async:true,
+                 crossDomain:true,
+                 success: function (data) {
+                     var data = Object.entries(data);
+                     $('#result').empty();
+                     var html = '<table>';
+                     for (i in data) {
+                         html += "<tr><td>" + data[i][1]['date'] + "</td>" ;
+                         html += "<td>" + data[i][1]['sum'] + "<td></tr>"   ;
+                     }
+                     html += '</table>';
+                     $('#result').append(html);
+                  }
+                 });
+             }
+           });    
+        </script>
+</head>
+<body style="background-color: transparent;margin: 0;">
+    <div id="listuser">
+    </div>
+    <div id="result">
+    </div>  
+</body>
+</html>
