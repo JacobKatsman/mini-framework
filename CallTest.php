@@ -5,7 +5,7 @@ require 'vendor/autoload.php';
 header("Access-Control-Allow-Origin: *");
 header("content-type: application/json; charset=UTF-8");
 
-// cd
+// php -S 127.0.0.1:8080 CallTest.php
 // 127.0.0.1:8080/getbalance
 
 use AppName\BalanceProcessor;

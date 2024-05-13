@@ -22,6 +22,7 @@ class BalanceProcessor
             $query = "select id, name from users";
             $stmt = $this->pdo->prepare($query);
             $stmt->execute();
+            //render!
             return $this->template->dBselectListUsersTemplate($stmt->fetchAll(\PDO::FETCH_ASSOC));
         } catch (PDOException $e) {
             die('Запрос не удался: ' . $e->getMessage());
@@ -50,6 +51,7 @@ class BalanceProcessor
 
             $stmt = $this->pdo->prepare($query);
             $stmt->execute([':idaccount' => $id_account]);
+            // render!
             return $this->template->dBselectBalanceTemplate($stmt->fetchAll(\PDO::FETCH_ASSOC));
         } catch (PDOException $e) {
 
