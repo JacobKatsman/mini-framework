@@ -9,12 +9,9 @@ class Dispatcher
     public function dispatch($requestUriPath)
     {
         foreach (Route::$routes['GET'] as $route => $action) {
-
-
              $json = file_get_contents('php://input');
              $data = json_decode($json);
-            ///echo "id=".$data->id;
-             if ($route === $requestUriPath) {
+              if ($route === $requestUriPath) {
                 return $this->executeAction($action, $data);
             }
         }
