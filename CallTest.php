@@ -18,8 +18,8 @@ use AppName\Connect;
 
 Connect::dBconnect();
 
-Route::get('/getlist', 'BalanceProcessor@dBselectListUsers');
-Route::get('/getbalance', 'BalanceProcessor@dBselect');
+Route::get('/getform', 'BalanceProcessor@dBselectListUsers');
+Route::get('/getimage', 'BalanceProcessor@dBselect');
 
 $requestUriPath  = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $dispatcher = new Dispatcher();

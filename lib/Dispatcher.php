@@ -1,5 +1,4 @@
 <?php
-
 namespace AppName;
 
 use AppName\ParallelTaskProcessor;
