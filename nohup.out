@@ -1,0 +1,944 @@
+[Thu Aug 22 17:28:34 2024] PHP 8.3.10 Development Server (http://127.0.0.1:8080) started
+[Thu Aug 22 17:28:53 2024] 127.0.0.1:57954 Accepted
+[Thu Aug 22 17:28:53 2024] 127.0.0.1:57954 Closing
+[Thu Aug 22 17:28:53 2024] 127.0.0.1:57968 Accepted
+[Thu Aug 22 17:28:53 2024] 127.0.0.1:57968 Closing
+[Thu Aug 22 17:29:27 2024] 127.0.0.1:48146 Accepted
+[Thu Aug 22 17:29:27 2024] 127.0.0.1:48146 Closing
+[Thu Aug 22 17:29:31 2024] 127.0.0.1:48154 Accepted
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag main invalid in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : g in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-ff69a012 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-ff69a012 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-ff69a012 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1131 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1131 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1131 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-547c8cb2 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag defs invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag lineargradient invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag stop invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Tag stop invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:36 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:29:53 2024] 127.0.0.1:48154 Closing
+[Thu Aug 22 17:30:56 2024] 127.0.0.1:50764 Accepted
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag main invalid in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1126 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-55f897ea redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Unexpected end tag : g in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-ff69a012 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-ff69a012 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-ff69a012 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1127 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1131 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1131 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1131 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1133 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-6ebf4c34 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-389b5807 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag header invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-547c8cb2 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag svg invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag path invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag defs invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag lineargradient invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag stop invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Tag stop invalid in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:01 2024] PHP Warning:  DOMDocument::loadHTML(): Attribute data-v-364d0c63 redefined in Entity, line: 1134 in /home/useralex/mini-framework/mini-framework/lib/BalanceProcessor.php on line 61
+[Thu Aug 22 17:31:19 2024] PHP Warning:  Undefined array key 1 in /home/useralex/mini-framework/mini-framework/template/TemplateEgngine.php on line 37
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:50764 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35548 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35550 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35548 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35554 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35550 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35564 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35554 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35572 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35564 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35586 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35572 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35596 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35586 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35600 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35596 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35610 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35600 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35624 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35610 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35636 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35624 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35638 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35636 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35650 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35638 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35652 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35650 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35668 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35652 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35672 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35668 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35684 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35672 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35690 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35684 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35700 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35690 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35710 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35700 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35722 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35710 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35738 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35722 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35752 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35738 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35754 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35752 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35766 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35754 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35776 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35766 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35786 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35776 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35802 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35786 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35814 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35802 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35818 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35814 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35820 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35818 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35824 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35820 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35826 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35824 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35840 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35826 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35854 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35840 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35858 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35854 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35866 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35858 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35878 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35866 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35892 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35878 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35902 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35892 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35916 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35902 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35924 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35916 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35930 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35936 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35944 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35952 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35966 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35970 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35936 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35930 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35924 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35980 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35986 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35992 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36000 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36014 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36020 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36032 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36038 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36048 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36062 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36076 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36080 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36094 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36102 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36104 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36112 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36118 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36128 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36134 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36136 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36152 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35952 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35944 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35970 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35966 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36158 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36170 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36182 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36192 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36198 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36204 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36206 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36214 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36230 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36242 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36258 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36274 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36290 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36306 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36322 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36332 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36342 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36352 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36360 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36374 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36386 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36398 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36400 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36410 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36420 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36436 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36446 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36462 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36038 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36000 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36014 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36020 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36032 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35980 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35986 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:35992 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36128 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36134 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36136 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36152 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36464 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36048 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36062 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36076 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36080 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36094 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36102 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36104 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36112 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36118 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36478 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36158 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36170 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36182 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36192 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36462 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36480 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36198 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36204 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36206 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36214 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36230 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36242 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36258 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36274 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36290 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36306 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36322 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36332 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36342 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36352 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36360 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36374 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36386 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36398 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36400 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36410 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36420 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36436 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36446 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36488 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36464 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36478 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36480 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36504 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36488 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36518 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36504 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36528 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36518 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36536 Accepted
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36528 Closing
+[Thu Aug 22 17:31:19 2024] 127.0.0.1:36536 Closing
+[Thu Aug 22 17:31:20 2024] 127.0.0.1:36548 Accepted
+[Thu Aug 22 17:31:20 2024] 127.0.0.1:36548 Closing

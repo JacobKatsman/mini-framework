@@ -8,10 +8,13 @@ class Dispatcher
     public function dispatch($requestUriPath)
     {
         foreach (Route::$routes['GET'] as $route => $action) {
-             $json = file_get_contents('php://input');
-             $data = json_decode($json);
+
+            $act = $action[0];
+            $par = $action[1];
+            //$json = file_get_contents('php://input');
+            //$data = json_decode($json);
               if ($route === $requestUriPath) {
-                return $this->executeAction($action, $data);
+                return $this->executeAction($act, $par);
             }
         }
         http_response_code(404);

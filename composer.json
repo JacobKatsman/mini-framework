@@ -2,8 +2,11 @@
   "autoload": {
       "psr-4": {"AppName\\": ["lib/", "template/"]}
     },
-  "require-dev": {
-    "vimeo/psalm": "^5.23",
-    "friendsofphp/php-cs-fixer": "^3.54"
-    }
+    "authors": [
+        {
+            "name": "Chikilevskiy.A.N",
+            "email": "call89269081096@gmail.com"
+        }
+    ],
+    "require": {}
 }

@@ -5,8 +5,8 @@ namespace AppName;
 class Route
 {
     public static $routes = array();
-    public static function get($route, $action)
+    public static function get($route, $action, $par)
     {
-        self::$routes['GET'][$route] = $action;
+        self::$routes['GET'][$route] = [$action, $par];
     }
 }

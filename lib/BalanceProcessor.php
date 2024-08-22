@@ -1,61 +1,109 @@
 <?php
 
 namespace AppName;
-use AppName\Connect;
 use AppName\TemplateEgngine;
-
 
 class BalanceProcessor
 {
-    public $pdo;
     public $template;
+    public $path_to_folder_images;
+    public $baseUrl;
 
-    function __construct() {
+    const
+        CURLOPTION = [
+        CURLOPT_RETURNTRANSFER => true,
+        CURLOPT_HEADER => false,
+        CURLOPT_FOLLOWLOCATION => true,
+        CURLOPT_ENCODING => "",
+        CURLOPT_USERAGENT => "test spider",
+        CURLOPT_AUTOREFERER => true,
+        CURLOPT_CONNECTTIMEOUT => 120,
+        CURLOPT_TIMEOUT => 120,
+        CURLOPT_MAXREDIRS => 100];
+
+    function __construct()
+    {
         $this->template = new TemplateEgngine();
-        $this->pdo = Connect::$pdo;
     }
 
-    // TODO распихать по разным классам
-    public function dBselectListUsers($data)
+    public function getUrl()
     {
-        try {
-            $query = "select id, name from users";
-            $stmt = $this->pdo->prepare($query);
-            $stmt->execute();
-            //render!
-            return $this->template->dBselectListUsersTemplate($stmt->fetchAll(\PDO::FETCH_ASSOC));
-        } catch (PDOException $e) {
-            die('Запрос не удался: ' . $e->getMessage());
+        return $this->template->renderGeTUrlFormTemplate();
+    }
+
+    public function getToCurl($url)
+    {
+        $ch = curl_init($url);
+        curl_setopt_array($ch, self::CURLOPTION);
+        $content = curl_exec($ch);
+        curl_close($ch);
+
+        return $content;
+    }
+
+    public function save_from_url($url, $destination)
+    {
+        $ch = curl_init($url);
+        curl_setopt_array($ch, self::CURLOPTION);
+        $content = curl_exec($ch);
+        curl_close($ch);
+
+        file_put_contents($destination, $content);
+
+        return filesize($destination);
+    }
+
+    public function parseToCurl($url)
+    {
+        $content = $this->getToCurl($url);
+        $dom = new \DOMDocument();
+        $dom->preserveWhiteSpace = false;
+        $dom->loadHTML($content);
+        $dom->saveHTML();
+        $images = $dom->getElementsByTagName('img');
+
+        $list = [];
+        foreach ($images as $image) {
+            $list[] = $image->getAttribute('src');
+        }
+        return $list;
+    }
+
+    // формирование таблицы и подсчет файлов для вывода в шаблон
+    public function createTempletObject(string $url)
+    {
+        $imgCounter = 0;
+        $totalSize = 0;
+        $listOffiles = [];
+        foreach ($this->parseToCurl($url) as $key => $img) {
+            $res = parse_url($img);
+            $size = $this->save_from_url($this->baseUrl . $res["path"], $this->path_to_folder_images . '/' . basename($res["path"]));
+                $totalSize += $size;
+                $imgCounter++;
+            $listOffiles[] = ["file" => "$this->path_to_folder_images" . basename($img), "size" => $size];
+        }
+        return ["listFiles" => $listOffiles, "imgCounter" => $imgCounter, "totalSize" => $totalSize];
+    }
+
+    public function createFolder()
+    {
+        $this->path_to_folder_images = getcwd() . '/photo/';
+        if (!is_dir($this->path_to_folder_images)) {
+            mkdir($this->path_to_folder_images, 0777);
         }
     }
 
-    public function dBselect($data)
+    public function createBaseUrl($url)
     {
-        // TODO ???
-        if  (!empty($data)) {
-            $id_account = $data->id;
-        } else {
-            throw new \Exception("error  request");
-        }
+        $splitStr = parse_url($url);
+        $this->baseUrl = $splitStr["scheme"] . "://" . $splitStr["host"];
+    }
 
-        try {
-
-            $query =  "SELECT T1.tr1 as date, sum(T1.sm1) as sum FROM ((select MONTHNAME(trdate) as tr1, (-1) * sum(b3.amount) as sm1 from transactions as b3  
- left join user_accounts as a2  on (a2.id = b3.account_from and a2.user_id = :idaccount)
- where b3.account_from = :idaccount group by MONTHNAME(trdate))
- union
- (select MONTHNAME(trdate) as date,  sum(b3.amount)as sum from transactions as b3  
- left join user_accounts as a2  on (a2.id = b3.account_to and a2.user_id = :idaccount)
- where b3.account_to = :idaccount group by MONTHNAME(trdate))) AS T1
- GROUP BY T1.tr1";
-
-            $stmt = $this->pdo->prepare($query);
-            $stmt->execute([':idaccount' => $id_account]);
-            // render!
-            return $this->template->dBselectBalanceTemplate($stmt->fetchAll(\PDO::FETCH_ASSOC));
-        } catch (PDOException $e) {
-
-            die('Запрос не удался: ' . $e->getMessage());
-        }
+    // показать форму  request
+    public function requestForm(string $url) {
+        // TODO исключение если нет url или он пустой
+        $this->createFolder();
+        $this->createBaseUrl($url);
+        return $this->template->renderTemplate($this->createTempletObject($url));
     }
 }
